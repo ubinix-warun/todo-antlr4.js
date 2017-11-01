@@ -1,0 +1,3 @@
+node_modules/*
+antlr4/.gradle/*
+antlr4/lib
